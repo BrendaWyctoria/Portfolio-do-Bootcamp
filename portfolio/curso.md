@@ -6,6 +6,7 @@ A **Digital Innovation** é uma plataforma digital a qual oferece cursos profiss
 
 ![image-20220108230555110](C:\Users\brend.DESKTOP-HF42BHG\AppData\Roaming\Typora\typora-user-images\image-20220108230555110.png)
 
+
 **ASSUNTOS ABORDADOS DURANTE A REALIZAÇÃO DO CURSO**
 
 
@@ -30,7 +31,7 @@ A **Digital Innovation** é uma plataforma digital a qual oferece cursos profiss
 
 |           |  ÓTIMO  |         REGULAR         | RUIM |
 | --------- | :-----: | :---------------------: | :--: |
-| DESING    | :smile: |                         |      |
+| DESIGN   | :smile: |                         |      |
 | CONTEUDO  | :smile: |                         |      |
 | MENTORIAS |         | :slightly_smiling_face: |      |
 | PRÁTICA   | :smile: |                         |      |
