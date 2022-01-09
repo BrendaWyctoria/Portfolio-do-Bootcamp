@@ -2,7 +2,7 @@
 
 
 
-A **Digital Innovation** é uma plataforma digital a qual oferece cursos profissionalizante na área da tecnologia. Por meio desta plataforma a empresa **Avannade** proporcionou um estagio para alunos matriculados em graduações do setor de exatas.  
+A **Digital Innovation** é uma plataforma digital a qual oferece cursos profissionalizante na área da tecnologia. Por meio desta plataforma a empresa **Avannade** proporcionou estagio para alunos matriculados em graduações na área de exatas.  
 
 ![image-20220108230555110](C:\Users\brend.DESKTOP-HF42BHG\AppData\Roaming\Typora\typora-user-images\image-20220108230555110.png)
 
